@@ -1,0 +1,14 @@
+C:\Users\Ronal\Desktop\2024\Educational\c#2024\SaavedraProgram5\bin\Debug\net8.0\SaavedraProgram5.exe
+C:\Users\Ronal\Desktop\2024\Educational\c#2024\SaavedraProgram5\bin\Debug\net8.0\SaavedraProgram5.deps.json
+C:\Users\Ronal\Desktop\2024\Educational\c#2024\SaavedraProgram5\bin\Debug\net8.0\SaavedraProgram5.runtimeconfig.json
+C:\Users\Ronal\Desktop\2024\Educational\c#2024\SaavedraProgram5\bin\Debug\net8.0\SaavedraProgram5.dll
+C:\Users\Ronal\Desktop\2024\Educational\c#2024\SaavedraProgram5\bin\Debug\net8.0\SaavedraProgram5.pdb
+C:\Users\Ronal\Desktop\2024\Educational\c#2024\SaavedraProgram5\obj\Debug\net8.0\SaavedraProgram5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronal\Desktop\2024\Educational\c#2024\SaavedraProgram5\obj\Debug\net8.0\SaavedraProgram5.AssemblyInfoInputs.cache
+C:\Users\Ronal\Desktop\2024\Educational\c#2024\SaavedraProgram5\obj\Debug\net8.0\SaavedraProgram5.AssemblyInfo.cs
+C:\Users\Ronal\Desktop\2024\Educational\c#2024\SaavedraProgram5\obj\Debug\net8.0\SaavedraProgram5.csproj.CoreCompileInputs.cache
+C:\Users\Ronal\Desktop\2024\Educational\c#2024\SaavedraProgram5\obj\Debug\net8.0\SaavedraProgram5.dll
+C:\Users\Ronal\Desktop\2024\Educational\c#2024\SaavedraProgram5\obj\Debug\net8.0\refint\SaavedraProgram5.dll
+C:\Users\Ronal\Desktop\2024\Educational\c#2024\SaavedraProgram5\obj\Debug\net8.0\SaavedraProgram5.pdb
+C:\Users\Ronal\Desktop\2024\Educational\c#2024\SaavedraProgram5\obj\Debug\net8.0\SaavedraProgram5.genruntimeconfig.cache
+C:\Users\Ronal\Desktop\2024\Educational\c#2024\SaavedraProgram5\obj\Debug\net8.0\ref\SaavedraProgram5.dll

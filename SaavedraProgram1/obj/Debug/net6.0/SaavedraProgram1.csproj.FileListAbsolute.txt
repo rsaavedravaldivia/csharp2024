@@ -1,0 +1,14 @@
+C:\Users\Ronal\Desktop\SaavedraProgram1\bin\Debug\net6.0\SaavedraProgram1.exe
+C:\Users\Ronal\Desktop\SaavedraProgram1\bin\Debug\net6.0\SaavedraProgram1.deps.json
+C:\Users\Ronal\Desktop\SaavedraProgram1\bin\Debug\net6.0\SaavedraProgram1.runtimeconfig.json
+C:\Users\Ronal\Desktop\SaavedraProgram1\bin\Debug\net6.0\SaavedraProgram1.dll
+C:\Users\Ronal\Desktop\SaavedraProgram1\bin\Debug\net6.0\SaavedraProgram1.pdb
+C:\Users\Ronal\Desktop\SaavedraProgram1\obj\Debug\net6.0\SaavedraProgram1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronal\Desktop\SaavedraProgram1\obj\Debug\net6.0\SaavedraProgram1.AssemblyInfoInputs.cache
+C:\Users\Ronal\Desktop\SaavedraProgram1\obj\Debug\net6.0\SaavedraProgram1.AssemblyInfo.cs
+C:\Users\Ronal\Desktop\SaavedraProgram1\obj\Debug\net6.0\SaavedraProgram1.csproj.CoreCompileInputs.cache
+C:\Users\Ronal\Desktop\SaavedraProgram1\obj\Debug\net6.0\SaavedraProgram1.dll
+C:\Users\Ronal\Desktop\SaavedraProgram1\obj\Debug\net6.0\refint\SaavedraProgram1.dll
+C:\Users\Ronal\Desktop\SaavedraProgram1\obj\Debug\net6.0\SaavedraProgram1.pdb
+C:\Users\Ronal\Desktop\SaavedraProgram1\obj\Debug\net6.0\SaavedraProgram1.genruntimeconfig.cache
+C:\Users\Ronal\Desktop\SaavedraProgram1\obj\Debug\net6.0\ref\SaavedraProgram1.dll
