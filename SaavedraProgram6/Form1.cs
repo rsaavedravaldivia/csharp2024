@@ -3,7 +3,7 @@
     public partial class Form1 : Form
     {
 
-        private double average = 0;
+        private decimal average = 0;
         public Form1()
         {
             InitializeComponent();
@@ -13,21 +13,34 @@
         private void button1_Click(object sender, EventArgs e)
         {
 
-            try
-            {
-                if (textBox1.Text != "" && textBox2.Text != "" && textBox3.Text != "")
-                {
-                    average = (double.Parse(textBox1.Text) + double.Parse(textBox2.Text) + double.Parse(textBox3.Text)) / 3;
-                    label6.Text = average.ToString();
-                }
-                else { return; }
-            }
-            catch (Exception)
-            {
 
-                label6.Text = "Invalid Input.";
+
+
+            if (decimal.TryParse(textBox1.Text, out decimal num1))
+            {
+            }
+            else
+            {
+                MessageBox.Show("Non-numeric value for first number.");
+                return;
             }
 
+            if (decimal.TryParse(textBox2.Text, out decimal num2)) { }
+            else
+            {
+                MessageBox.Show("Non-numeric value for second number.");
+                return;
+            }
+            if (decimal.TryParse(textBox3.Text, out decimal num3)) { }
+            else
+            {
+                MessageBox.Show("Non-numeric value for third number.");
+                return;
+
+            }
+
+            average = (num1 + num2 + num3) / 3;
+            label6.Text = average.ToString();
 
 
 
